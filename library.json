@@ -1,0 +1,7 @@
+{
+    "name": "CommonFwUtils",
+    "version": "1.0.0",
+    "description": "Stuff we needed across our projects",
+    "keywords": "hsp, utils, cum",
+    "license": "MIT"
+  }
